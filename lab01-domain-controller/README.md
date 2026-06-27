@@ -18,7 +18,8 @@ Szczegóły środowiska: [README](../README.md)
 ## Przebieg
 
 ### 1. Pobranie obrazu ISO z oficjalnej strony producenta
-
+Laboratorium rozpocząłem od pobrania obrazu ISO systemu Windows Server 2022 oraz Windows 11 Evaluation z oficjalnej strony Microsoft. Wybrałem najnowsze wersje systemów, aby pracować na aktualnym środowisku.
+![Pobieranie obrazów ISO]](screenshots/01-download-iso.png)
 
 
 
