@@ -1,9 +1,6 @@
 # Labaratorium z aministracji Active Directory 
 
-Srodowskio
-
-Dokumentacja 
-## Technologie
+## Srodowisko
 
 * Windows Server 2022 21H2
 * Active Directory Domain Services (AD DS)
