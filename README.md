@@ -12,12 +12,11 @@ Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Serv
 
 ## Laboratoria
 
-| Laboratorium              | Status |
-| ------------------------- | ------ |
-| Lab01 - Domain Controller | ⬜      |
+| Lab | Description | Status |
+|------|-------------|:------:|
+| Lab01 | Install Windows Server and configure Domain Controller | ⬜ |
 | Lab02 | Create users, groups and organizational units | ⬜ |
 | Lab03 | Join Windows 11 client to the domain | ⬜ |
-
 
 ## Struktura repozytorium
 
