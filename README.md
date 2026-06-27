@@ -15,8 +15,6 @@ Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Serv
 | Laboratorium              | Status |
 | ------------------------- | ------ |
 | Lab01 - Domain Controller | ⬜      |
-| Lab02 - Users and Groups  | ⬜      |
-| Lab03 - Domain Join       | ⬜      |
 
 ## Struktura repozytorium
 
