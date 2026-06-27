@@ -4,11 +4,11 @@ Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Serv
 
 ## Technologie
 
-* Windows Server 2022
+* Windows Server 2022 21H2
 * Active Directory Domain Services (AD DS)
 * DNS
-* Windows 11
-* VirtualBox
+* Windows 11 25H2
+* VirtualBox 7.2.8
 
 ## Laboratoria
 
