@@ -1,7 +1,8 @@
-# Active Directory Labs
+# Labaratorium z aministracji Active Directory 
 
-Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Server. Repozytorium dokumentuje wykonane przeze mnie konfiguracje oraz zadania administracyjne realizowane we własnym środowisku testowym.
+Srodowskio
 
+Dokumentacja 
 ## Technologie
 
 * Windows Server 2022 21H2
