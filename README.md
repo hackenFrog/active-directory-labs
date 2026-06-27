@@ -1,6 +1,6 @@
 # Labaratorium z aministracji Active Directory 
 
-## Srodowisko
+## Środowisko
 
 * Windows Server 2022 21H2
 * Active Directory Domain Services (AD DS)
