@@ -1,0 +1,18 @@
+# Cursor / edytory
+.cursor/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Tymczasowe / backupy
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swo
