@@ -16,7 +16,7 @@ Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Serv
 
 | Lab   | Opis                                                      | Status |
 | ----- | --------------------------------------------------------- | ------ |
-| Lab01 | Wdrożenie Windows Server i konfiguracja kontrolera domeny | ⬜      |
+| Lab01 | Wdrożenie serwera, kontrolera domeny i DNS                | ✅      |
 | Lab02 | Projektowanie i tworzenie struktury OU                    | ⬜      |
 | Lab03 | Tworzenie użytkowników i grup                             | ⬜      |
 | Lab04 | Dołączenie klienta Windows 11 do domeny i test logowania  | ⬜      |
