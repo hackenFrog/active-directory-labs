@@ -18,7 +18,7 @@ Zebrałem tutaj praktyczne laboratoria z zakresu Active Directory i Windows Serv
 | ----- | --------------------------------------------------------- | ------ |
 | Lab01 | Wdrożenie serwera, kontrolera domeny i DNS                | ✅      |
 | Lab02 | Projektowanie i tworzenie struktury OU                    | ✅      |
-| Lab03 | Tworzenie użytkowników i grup                             | ⬜      |
+| Lab03 | Tworzenie użytkowników i grup                             | ✅      |
 | Lab04 | Dołączenie klienta Windows 11 do domeny i test logowania  | ⬜      |
 | Lab05 | Konta komputerów w Active Directory                       | ⬜      |
 | Lab06 | Polityki haseł                                            | ⬜      |
